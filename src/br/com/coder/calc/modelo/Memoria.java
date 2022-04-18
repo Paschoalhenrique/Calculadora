@@ -17,7 +17,7 @@ public class Memoria {
 
 	private Memoria() {
 	}
-
+	//insacia
 	public static Memoria getIstancia() {
 		return istancia;
 	}
